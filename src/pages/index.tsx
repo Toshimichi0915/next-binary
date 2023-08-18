@@ -6,5 +6,5 @@ export default function Home() {
       <h1>Hello, world!</h1>
       <Image src="/api/image" alt="" width={72} height={72} />
     </main>
-  )
+  );
 }
