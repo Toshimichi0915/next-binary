@@ -6,7 +6,8 @@
     "dev": "sst bind next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "openbuild": "node ../open-next/packages/open-next/dist/index.js build"
   },
   "dependencies": {
     "@types/node": "20.5.0",
